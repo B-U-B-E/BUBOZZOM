@@ -5,8 +5,8 @@
         transform: scale(2);
     }
 
-    .home-parallex1,
-    .home-parallex2 {
+    div.home-parallex1,
+    div.home-parallex2 {
         background-attachment: scroll;
     }
 
