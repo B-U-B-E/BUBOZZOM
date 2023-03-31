@@ -1,0 +1,266 @@
+@media(max-width:425px) {
+    #bube {
+        height: 69% !important;
+
+        transform: scale(2);
+    }
+}
+
+@media(max-width:992px) {
+    #navbarNav {
+        box-shadow: white 0px 34px 2px -32px inset;
+    }
+
+    .navbar-nav {
+        box-shadow: 0px 19px 2px -17px black inset;
+
+    }
+
+    .nav-item span.active {
+        height: 40px;
+        width: 10px;
+        left: -22px;
+    }
+
+
+
+
+}
+
+.nav-item span.active {
+    height: 40px;
+    width: 10px;
+}
+
+
+
+@media(min-width:992px) {
+
+    #navbarNav,
+    .navbar-nav {
+        box-shadow: none !important;
+    }
+
+    .nav-item span.active {
+        position: static;
+    }
+
+
+}
+
+
+
+.active {
+    box-shadow: -5px 0px 0px -3px white;
+}
+
+.cap.carousel-caption {
+    top: 50%;
+    bottom: auto;
+    transform: translate(0, -50%);
+}
+
+.text-shadow {
+    text-shadow: 0 2px 1px black;
+}
+
+.ind.carousel-indicators {
+    bottom: 30px;
+
+}
+
+.ind.carousel-indicators button[type="button"] {
+
+    width: 30px;
+    height: 5px;
+    background: transparent;
+
+
+}
+
+.ind.carousel-indicators .active {
+    box-shadow: 0px 0px 0px 11px white inset;
+}
+
+
+
+.in.carousel-inner,
+.it.carousel-item {
+    height: 50vh;
+}
+
+.get-started {
+    min-height: 25vh;
+}
+
+@media(max-width:1150px) {
+
+    .in.carousel-inner,
+    .it.carousel-item {
+
+        height: auto;
+    }
+}
+
+.home-parallex1 {
+    background: url("./Images/lights.jpg") fixed no-repeat center/cover
+}
+
+.home-parallex2 {
+    background: url("./Images/media.jpg")fixed no-repeat center/cover;
+    opacity: 0.1;
+    top: 0;
+    z-index: -1;
+}
+
+.dark-bube {
+    background-color: #343a40;
+    opacity: 0.9;
+}
+
+
+
+@media(max-width:1200px) {
+    .home-inputs {
+        width: 20%;
+    }
+}
+
+
+
+@media(min-width:992px) and (max-width:1200px) {
+    .row-inputs {
+        width: 87%;
+    }
+}
+
+@media(min-width:1200px) {
+
+    .row-inputs {
+        width: 87%;
+    }
+}
+
+
+
+
+
+/* ************************** */
+/* about */
+/* ************************** */
+
+
+div.carousel-item.active {
+    box-shadow: none;
+}
+
+
+
+
+
+.many-banner {
+    background: url("./Images/image1.jpg") top/cover no-repeat;
+
+    height: 50vh;
+
+
+
+}
+
+@media(max-width:992px) {
+    .many-banner {
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto;
+    }
+
+    .gospodinot {
+        position: static !important;
+        width: 100% !important;
+        padding: 100px 0px 100px 0px;
+    }
+}
+
+.img-about-us {
+    top: -50px;
+
+}
+
+.what-we-do-content-cards {
+    background-color: red;
+}
+
+
+/* ************************** */
+/* services */
+/* ************************** */
+
+
+
+.hover-card:hover {
+    box-shadow: 0px 0px 0px 1px #dc3545 inset;
+}
+
+.list-group-item {
+    background: none;
+}
+
+@media(min-width:768px) and (max-width:992px) {
+    .feature {
+        font-size: 1rem;
+
+    }
+
+    .bube-card-paragraph {
+        font-size: calc(1rem - 3px);
+    }
+}
+
+.icon {
+    font-size: x-large;
+}
+
+.bg-accordion {
+    background-color: #2121218a;
+}
+
+.accordion-btn.btn:focus {
+    box-shadow: none;
+}
+
+.card-header.bg-danger {
+    opacity: 0.3;
+}
+
+/* ************************** */
+/* blog */
+/* ************************** */
+
+/* ******************** :) bube bootstrap -5  :) */
+
+.lh-sm {
+    line-height: 1.25rem;
+}
+
+/* ******************** :) bube bootstrap -5 :) */
+
+
+.what-we-do-content-cards-blue {
+    background-color: blue;
+}
+
+/* ************************** */
+/* contact */
+/* ************************** */
+
+
+.img-stuff-contact {
+    width: 150px;
+}
+
+.border-color-staff {
+    border-bottom: 1px solid black;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
