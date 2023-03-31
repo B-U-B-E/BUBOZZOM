@@ -92,6 +92,8 @@ div.it.carousel-item.active {
     box-shadow: none !important;
 }
 
+
+
 .get-started {
     min-height: 25vh;
 }
@@ -153,9 +155,9 @@ div.it.carousel-item.active {
 /* ************************** */
 
 
-div.carousel-item.active {
+/* div.carousel-item.active {
     box-shadow: none;
-}
+} */
 
 
 
