@@ -48,7 +48,7 @@
 
 
 
-.active {
+.navigation.active {
     box-shadow: -5px 0px 0px -3px white;
 }
 
@@ -88,13 +88,13 @@
 
 }
 
-div.it.carousel-item.active {
+/* div.it.carousel-item.active {
     box-shadow: none !important;
 }
 
 div.in.carousel-inner.active {
     box-shadow: none !important;
-}
+} */
 
 
 
