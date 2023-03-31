@@ -92,6 +92,10 @@ div.it.carousel-item.active {
     box-shadow: none !important;
 }
 
+div.in.carousel-inner.active {
+    box-shadow: none !important;
+}
+
 
 
 .get-started {
