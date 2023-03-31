@@ -88,13 +88,13 @@
 
 }
 
-/* div.it.carousel-item.active {
-    box-shadow: none !important;
+div.it.carousel-item.active {
+    box-shadow: 0 0 0 0px black;
 }
 
 div.in.carousel-inner.active {
-    box-shadow: none !important;
-} */
+    box-shadow: 0 0 0 0px black;
+}
 
 
 
