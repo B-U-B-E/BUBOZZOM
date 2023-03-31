@@ -89,11 +89,11 @@
 }
 
 div.it.carousel-item.active {
-    box-shadow: 0 0 0 0px black;
+    box-shadow: 0 0 0 0px black !important;
 }
 
 div.in.carousel-inner.active {
-    box-shadow: 0 0 0 0px black;
+    box-shadow: 0 0 0 0px black !important;
 }
 
 
