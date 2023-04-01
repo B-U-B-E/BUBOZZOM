@@ -36,7 +36,7 @@
 @media(min-width:992px) and (max-width:993px) {
     .nav-item span.active {
 
-        left: 0 !important;
+        left: 0;
     }
 }
 
