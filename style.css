@@ -68,12 +68,12 @@
     text-shadow: 0 2px 1px black;
 }
 
-#carouselOne .ind.carousel-indicators {
+#carouselHome .ind.carousel-indicators {
     bottom: 30px;
 
 }
 
-#carouselOne .ind.carousel-indicators button[type="button"] {
+#carouselHome .ind.carousel-indicators button[type="button"] {
 
     width: 30px;
     height: 5px;
@@ -82,23 +82,23 @@
 
 }
 
-#carouselOne .ind.carousel-indicators .active {
+#carouselHome .ind.carousel-indicators .active {
     box-shadow: 0px 0px 0px 11px white inset;
 }
 
 
 
-#carouselOne .in.carousel-inner,
-#carouselOne .it.carousel-item {
+#carouselHome .in.carousel-inner,
+#carouselHome .it.carousel-item {
     height: 50vh;
 
 }
 
-#carouselOne div.it.carousel-item.active {
+#carouselHome div.it.carousel-item.active {
     box-shadow: none !important;
 }
 
-#carouselOne div.in.carousel-inner.active {
+#carouselHome div.in.carousel-inner.active {
     box-shadow: none !important;
 }
 
@@ -110,8 +110,8 @@
 
 @media(max-width:1150px) {
 
-    #carouselOne .in.carousel-inner,
-    #carouselOne .it.carousel-item {
+    #carouselHome .in.carousel-inner,
+    #carouselHome .it.carousel-item {
 
         height: auto;
     }
