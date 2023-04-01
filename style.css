@@ -33,6 +33,13 @@
 
 }
 
+@media(min-width:992px) and (max-width:993px) {
+    .nav-item span.active {
+
+        left: 0 !important;
+    }
+}
+
 .nav-item span.active {
     height: 40px;
     width: 10px;
@@ -162,7 +169,7 @@
 /* about */
 /* ************************** */
 
-/* netreba zasto ja imam od bootstrap classa ama ja mu ja turiv :) */
+
 #carouselAbout div.carousel-item.active {
     box-shadow: none;
 }
