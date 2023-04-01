@@ -47,6 +47,10 @@
         box-shadow: none !important;
     }
 
+    .nav-item span.active {
+        position: static;
+    }
+
 
 
 
@@ -94,13 +98,7 @@
 
 }
 
-#carouselHome div.it.carousel-item.active {
-    box-shadow: none !important;
-}
 
-#carouselHome div.in.carousel-inner.active {
-    box-shadow: none !important;
-}
 
 
 
